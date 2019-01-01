@@ -1,0 +1,27 @@
+{
+	"name": "linkedlistpup",
+	"version": "1.0.0",
+	"author": "Erik Larson <erik@welarson.com>",
+	"license": "MIT",
+	"main": "./index.js",
+	"description": "Double linked list implementation with an similar API to the Java LinkedList class.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/erikssource/linkedlistpup"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [
+		"npm",
+		"package",
+		"list",
+		"linkedlist",
+		"datastructure"
+	],
+	"devDependencies": {
+		"babel-jest": "^23.6.0",
+		"babel-preset-env": "^1.7.0",
+		"jest": "^23.6.0"
+	}
+}
