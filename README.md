@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/erikssource/linkedlistpup.svg?branch=master)](https://travis-ci.org/erikssource/linkedlistpup) [![Coverage Status](https://coveralls.io/repos/github/erikssource/linkedlistpup/badge.svg?branch=master)](https://coveralls.io/github/erikssource/linkedlistpup?branch=master)
+[![Build Status](https://travis-ci.org/erikssource/linkedlistpup.svg?branch=master)](https://travis-ci.org/erikssource/linkedlistpup) [![Coverage Status](https://coveralls.io/repos/github/erikssource/linkedlistpup/badge.svg?branch=master)](https://coveralls.io/github/erikssource/linkedlistpup?branch=master) [![](https://img.shields.io/bundlephobia/min/react.svg)](https://github.com/erikssource/linkedlistpup)
 
 # linkedlistpup
 Doubly linked list implementation with an extensive Java-like API. If you are used to the Java LinkedList collection, you should feel at home with linkedlistpup. Linked lists are best used as queues or stacks since random access is very inefficient.
