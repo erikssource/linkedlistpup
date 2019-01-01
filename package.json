@@ -1,10 +1,10 @@
 {
 	"name": "linkedlistpup",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"author": "Erik Larson <erik@welarson.com>",
 	"license": "MIT",
 	"main": "./index.js",
-	"description": "Double linked list implementation with an similar API to the Java LinkedList class.",
+	"description": "Double linked list implementation with a similar API to the Java LinkedList class.",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/erikssource/linkedlistpup"
