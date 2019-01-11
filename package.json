@@ -1,6 +1,6 @@
 {
 	"name": "linkedlistpup",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"author": "Erik Larson <erik@welarson.com>",
 	"license": "MIT",
 	"main": "./index.js",
