@@ -1,6 +1,6 @@
 {
 	"name": "linkedlistpup",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"author": "Erik Larson <erik@welarson.com>",
 	"license": "MIT",
 	"main": "./index.js",
@@ -20,9 +20,10 @@
 		"datastructure"
 	],
 	"devDependencies": {
-		"babel-jest": "^23.6.0",
-		"babel-preset-env": "^1.7.0",
-		"coveralls": "^3.0.2",
-		"jest": "^23.6.0"
+		"@babel/core": "^7.6.0",
+		"@babel/preset-env": "^7.6.0",
+		"babel-jest": "^24.9.0",
+		"coveralls": "^3.0.6",
+		"jest": "^24.9.0"
 	}
 }
